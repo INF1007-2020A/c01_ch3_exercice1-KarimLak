@@ -8,7 +8,7 @@ def square_root(number: int) -> float:
   
 
 def square(number: int) -> int:
-    
+    new__value = number**2
     return number**2
 
 
