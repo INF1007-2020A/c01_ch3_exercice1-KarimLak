@@ -4,11 +4,11 @@
 
 def square_root(number: int) -> float:
     new_value = number**0.5
-    return 
+    return new_value
   
 
 def square(number: int) -> int:
-    # test
+    
     return number**2
 
 
