@@ -3,7 +3,7 @@
 
 
 def square_root(number: int) -> float:
-    
+    new value = number
     return number**0.5
   
 
